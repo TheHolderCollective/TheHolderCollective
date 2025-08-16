@@ -2,7 +2,7 @@
 
 - 🔭 I’m a former actuarial applications developer transitioning to .NET development
 - 🌱 I’m currently exploring the .NET ecosystem
-- ⚡ Fun fact: I find fractals interesting
+- ⚡ Fun fact: I love solving puzzles and find fractals interesting
   
 <!--
 **TheHolderCollective/TheHolderCollective** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
