@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m a former actuarial applications developer transitioning to .NET development
-- 🌱 I’m currently exploring the .NET ecosystem
+- 🔭 I’m a former actuarial applications developer transitioning to quantitative development
+- 🌱 I’m currently exploring the development of financial applications within the .NET ecosystem
 - ⚡ Fun facts: I find fractals interesting and I love solving puzzles 
   
 <!--
