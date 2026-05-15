@@ -3,6 +3,7 @@
 - 🔭 I’m a former actuarial applications developer transitioning to quantitative development
 - 🌱 I’m currently exploring the development of financial applications within the .NET ecosystem
 - ⚡ Fun facts: I find fractals interesting and I love solving puzzles 
+- 📫 How to reach me: theholdercollective@gmail.com
   
 <!--
 **TheHolderCollective/TheHolderCollective** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
