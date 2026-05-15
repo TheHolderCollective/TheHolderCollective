@@ -2,7 +2,7 @@
 
 - 🔭 I’m a former actuarial applications developer transitioning to quantitative development
 - 🌱 I’m currently exploring the development of financial applications within the .NET ecosystem
-- ⚡ Fun facts: I find fractals interesting and I love solving puzzles 
+- ⚡ Fun fact: I'm a cat lover who doesn't own a cat!
 - 📫 How to reach me: theholdercollective@gmail.com
   
 <!--
